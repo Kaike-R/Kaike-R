@@ -34,19 +34,17 @@ Here are some ideas to get you started:
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kaike-r)](https://github.com/kaike-r)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaike-r&show_icons=true&theme=highcontrast)
-
 <div>
  <a href="https://github.com/kaike-r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaike-r&show_icons=true&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaike-r&show_icons=true&theme=highcontrast"/>
  </a>
 
  <a href="https://github.com/kaike-r">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaike-r&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaike-r&theme=highcontrast&hide_langs_below=1" />
  </a>
 </div>
 
