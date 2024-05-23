@@ -40,20 +40,24 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaike-r&show_icons=true&theme=highcontrast)
 
-<a href="https://github.com/kaike-r">
+<div>
+ <a href="https://github.com/kaike-r">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaike-r&show_icons=true&theme=dracula"/>
+ </a>
+
+ <a href="https://github.com/kaike-r">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaike-r&theme=dark&hide_langs_below=1" />
-</a>
+ </a>
+</div>
+
+
 
 - Thanks for visiting.
 
 - Enjoy it!! o/
 
 ----------------------------------------------------------------------------------
-
-## Ola Sou o Kaike Rodrigues Zuanetti, criadora de conteúdo de programação e tecnologia!
-
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+[tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
