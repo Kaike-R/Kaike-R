@@ -40,6 +40,10 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaike-r&show_icons=true&theme=highcontrast)
 
+<a href="https://github.com/TheDudeThatCode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaike-r&theme=dark&hide_langs_below=1" />
+</a>
+
 - Thanks for visiting.
 
 - Enjoy it!! o/
