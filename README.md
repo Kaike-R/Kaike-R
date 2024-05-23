@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 
  
 
-## I'm (SEU NOME)!
+## I'm Kaike Rodrigues Zuanetti!
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm Back-End Developer!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning about Cloud.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2023 Goals: get a Cloud Certificated.
 
  
 
